@@ -1,0 +1,2872 @@
+[
+  {
+    "Nombre": "Ai Kayano",
+    "Nacionalidad": "Japon",
+    "FechaNacimiento": "1992-05-03",
+    "Edad": 34,
+    "Patrimonio": 4550000,
+    "Idiomas": [
+      "Japones",
+      "Coreano"
+    ],
+    "Personajes": [
+      {
+        "NombrePersonaje": "Mikan Tsumiki",
+        "Produccion": "Danganronpa 2: Goodbye Despair",
+        "TipoProduccion": "Profesional",
+        "Rol": "Secundario",
+        "CantidadApariciones": 19,
+        "Generos": [
+          "Misterio",
+          "Aventura",
+          "Novela visual"
+        ]
+      },
+      {
+        "NombrePersonaje": "Darkness",
+        "Produccion": "KonoSuba",
+        "TipoProduccion": "Profesional",
+        "Rol": "Principal",
+        "CantidadApariciones": 35,
+        "Generos": [
+          "Comedia",
+          "Fantasia"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Aimi Tanaka",
+    "Nacionalidad": "Japon",
+    "FechaNacimiento": "2000-12-12",
+    "Edad": 26,
+    "Patrimonio": 14900000,
+    "Idiomas": [
+      "Japones"
+    ],
+    "Personajes": [
+      {
+        "NombrePersonaje": "Himiko Yumeno",
+        "Produccion": "Danganronpa V3: Killing Harmony",
+        "TipoProduccion": "Profesional",
+        "Rol": "Secundario",
+        "CantidadApariciones": 32,
+        "Generos": [
+          "Misterio",
+          "Aventura",
+          "Novela visual"
+        ]
+      },
+      {
+        "NombrePersonaje": "Umaru Doma",
+        "Produccion": "Himouto! Umaru-chan",
+        "TipoProduccion": "Profesional",
+        "Rol": "Principal",
+        "CantidadApariciones": 17,
+        "Generos": [
+          "Comedia",
+          "Slice of Life"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Akemi Kanda",
+    "Nacionalidad": "Japon",
+    "FechaNacimiento": "1969-01-03",
+    "Edad": 57,
+    "Patrimonio": 4850000,
+    "Idiomas": [
+      "Japones"
+    ],
+    "Personajes": [
+      {
+        "NombrePersonaje": "Nanako Dojima",
+        "Produccion": "Persona 4 Golden",
+        "TipoProduccion": "Profesional",
+        "Rol": "Secundario",
+        "CantidadApariciones": 19,
+        "Generos": [
+          "JRPG",
+          "Misterio",
+          "Aventura"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Akio Otsuka",
+    "Nacionalidad": "Japon",
+    "FechaNacimiento": "1970-07-23",
+    "Edad": 56,
+    "Patrimonio": 16450000,
+    "Idiomas": [
+      "Japones",
+      "Ingles"
+    ],
+    "Personajes": [
+      {
+        "NombrePersonaje": "Ryoma Hoshi",
+        "Produccion": "Danganronpa V3: Killing Harmony",
+        "TipoProduccion": "Profesional",
+        "Rol": "Secundario",
+        "CantidadApariciones": 15,
+        "Generos": [
+          "Misterio",
+          "Aventura",
+          "Novela visual"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Akira Ishida",
+    "Nacionalidad": "Japon",
+    "FechaNacimiento": "1984-09-03",
+    "Edad": 42,
+    "Patrimonio": 12850000,
+    "Idiomas": [
+      "Japones"
+    ],
+    "Personajes": [
+      {
+        "NombrePersonaje": "Byakuya Togami",
+        "Produccion": "Danganronpa: Trigger Happy Havoc",
+        "TipoProduccion": "Profesional",
+        "Rol": "Secundario",
+        "CantidadApariciones": 35,
+        "Generos": [
+          "Misterio",
+          "Aventura",
+          "Novela visual"
+        ]
+      },
+      {
+        "NombrePersonaje": "Ultimate Imposter",
+        "Produccion": "Danganronpa 2: Goodbye Despair",
+        "TipoProduccion": "Profesional",
+        "Rol": "Secundario",
+        "CantidadApariciones": 37,
+        "Generos": [
+          "Misterio",
+          "Aventura",
+          "Novela visual"
+        ]
+      },
+      {
+        "NombrePersonaje": "Protagonista",
+        "Produccion": "Persona 3 Reload",
+        "TipoProduccion": "Profesional",
+        "Rol": "Principal",
+        "CantidadApariciones": 41,
+        "Generos": [
+          "JRPG",
+          "Sobrenatural",
+          "Aventura"
+        ]
+      },
+      {
+        "NombrePersonaje": "Kaworu Nagisa",
+        "Produccion": "Neon Genesis Evangelion",
+        "TipoProduccion": "Profesional",
+        "Rol": "Secundario",
+        "CantidadApariciones": 33,
+        "Generos": [
+          "Mecha",
+          "Drama",
+          "Ciencia ficcion"
+        ]
+      },
+      {
+        "NombrePersonaje": "Katsura Kotaro",
+        "Produccion": "Gintama",
+        "TipoProduccion": "Profesional",
+        "Rol": "Secundario",
+        "CantidadApariciones": 46,
+        "Generos": [
+          "Comedia",
+          "Accion"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Ami Koshimizu",
+    "Nacionalidad": "Japon",
+    "FechaNacimiento": "1977-03-21",
+    "Edad": 49,
+    "Patrimonio": 7400000,
+    "Idiomas": [
+      "Japones"
+    ],
+    "Personajes": [
+      {
+        "NombrePersonaje": "Ibuki Mioda",
+        "Produccion": "Danganronpa 2: Goodbye Despair",
+        "TipoProduccion": "Profesional",
+        "Rol": "Secundario",
+        "CantidadApariciones": 26,
+        "Generos": [
+          "Misterio",
+          "Aventura",
+          "Novela visual"
+        ]
+      },
+      {
+        "NombrePersonaje": "Yukiko Amagi",
+        "Produccion": "Persona 4 Golden",
+        "TipoProduccion": "Profesional",
+        "Rol": "Principal",
+        "CantidadApariciones": 49,
+        "Generos": [
+          "JRPG",
+          "Misterio",
+          "Aventura"
+        ]
+      },
+      {
+        "NombrePersonaje": "Ryuko Matoi",
+        "Produccion": "Kill la Kill",
+        "TipoProduccion": "Profesional",
+        "Rol": "Principal",
+        "CantidadApariciones": 42,
+        "Generos": [
+          "Accion",
+          "Comedia"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Aoi Yuki",
+    "Nacionalidad": "Japon",
+    "FechaNacimiento": "1988-06-14",
+    "Edad": 38,
+    "Patrimonio": 5800000,
+    "Idiomas": [
+      "Japones",
+      "Ingles"
+    ],
+    "Personajes": [
+      {
+        "NombrePersonaje": "Futaba Sakura",
+        "Produccion": "Persona 5 Royal",
+        "TipoProduccion": "Profesional",
+        "Rol": "Principal",
+        "CantidadApariciones": 67,
+        "Generos": [
+          "JRPG",
+          "Aventura",
+          "Fantasia"
+        ]
+      },
+      {
+        "NombrePersonaje": "Madoka Kaname",
+        "Produccion": "Puella Magi Madoka Magica",
+        "TipoProduccion": "Profesional",
+        "Rol": "Principal",
+        "CantidadApariciones": 46,
+        "Generos": [
+          "Fantasia",
+          "Drama"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Chiwa Saito",
+    "Nacionalidad": "Japon",
+    "FechaNacimiento": "1974-09-16",
+    "Edad": 52,
+    "Patrimonio": 16050000,
+    "Idiomas": [
+      "Japones",
+      "Ingles"
+    ],
+    "Personajes": [
+      {
+        "NombrePersonaje": "Aoi Asahina",
+        "Produccion": "Danganronpa: Trigger Happy Havoc",
+        "TipoProduccion": "Profesional",
+        "Rol": "Secundario",
+        "CantidadApariciones": 23,
+        "Generos": [
+          "Misterio",
+          "Aventura",
+          "Novela visual"
+        ]
+      },
+      {
+        "NombrePersonaje": "Hitagi Senjougahara",
+        "Produccion": "Monogatari Series",
+        "TipoProduccion": "Profesional",
+        "Rol": "Principal",
+        "CantidadApariciones": 53,
+        "Generos": [
+          "Sobrenatural",
+          "Misterio"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Daisuke Kishio",
+    "Nacionalidad": "Japon",
+    "FechaNacimiento": "1977-11-06",
+    "Edad": 49,
+    "Patrimonio": 11750000,
+    "Idiomas": [
+      "Japones",
+      "Coreano"
+    ],
+    "Personajes": [
+      {
+        "NombrePersonaje": "Fuyuhiko Kuzuryu",
+        "Produccion": "Danganronpa 2: Goodbye Despair",
+        "TipoProduccion": "Profesional",
+        "Rol": "Secundario",
+        "CantidadApariciones": 34,
+        "Generos": [
+          "Misterio",
+          "Aventura",
+          "Novela visual"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Daisuke Namikawa",
+    "Nacionalidad": "Japon",
+    "FechaNacimiento": "1971-10-09",
+    "Edad": 55,
+    "Patrimonio": 8650000,
+    "Idiomas": [
+      "Japones"
+    ],
+    "Personajes": [
+      {
+        "NombrePersonaje": "Yu Narukami",
+        "Produccion": "Persona 4 Golden",
+        "TipoProduccion": "Profesional",
+        "Rol": "Principal",
+        "CantidadApariciones": 36,
+        "Generos": [
+          "JRPG",
+          "Misterio",
+          "Aventura"
+        ]
+      },
+      {
+        "NombrePersonaje": "Hisoka Morow",
+        "Produccion": "Hunter x Hunter",
+        "TipoProduccion": "Profesional",
+        "Rol": "Principal",
+        "CantidadApariciones": 35,
+        "Generos": [
+          "Aventura",
+          "Accion"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Haruka Ishida",
+    "Nacionalidad": "Japon",
+    "FechaNacimiento": "2002-07-23",
+    "Edad": 24,
+    "Patrimonio": 17600000,
+    "Idiomas": [
+      "Japones"
+    ],
+    "Personajes": [
+      {
+        "NombrePersonaje": "Miu Iruma",
+        "Produccion": "Danganronpa V3: Killing Harmony",
+        "TipoProduccion": "Profesional",
+        "Rol": "Secundario",
+        "CantidadApariciones": 38,
+        "Generos": [
+          "Misterio",
+          "Aventura",
+          "Novela visual"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Haruka Terui",
+    "Nacionalidad": "Japon",
+    "FechaNacimiento": "1968-07-07",
+    "Edad": 58,
+    "Patrimonio": 4300000,
+    "Idiomas": [
+      "Japones",
+      "Ingles"
+    ],
+    "Personajes": [
+      {
+        "NombrePersonaje": "Chihaya Mifune",
+        "Produccion": "Persona 5 Royal",
+        "TipoProduccion": "Profesional",
+        "Rol": "Secundario",
+        "CantidadApariciones": 61,
+        "Generos": [
+          "JRPG",
+          "Aventura",
+          "Fantasia"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Haruka Tomatsu",
+    "Nacionalidad": "Japon",
+    "FechaNacimiento": "1993-09-27",
+    "Edad": 33,
+    "Patrimonio": 8950000,
+    "Idiomas": [
+      "Japones"
+    ],
+    "Personajes": [
+      {
+        "NombrePersonaje": "Haru Okumura",
+        "Produccion": "Persona 5 Royal",
+        "TipoProduccion": "Profesional",
+        "Rol": "Principal",
+        "CantidadApariciones": 42,
+        "Generos": [
+          "JRPG",
+          "Aventura",
+          "Fantasia"
+        ]
+      },
+      {
+        "NombrePersonaje": "Asuna Yuuki",
+        "Produccion": "Sword Art Online",
+        "TipoProduccion": "Profesional",
+        "Rol": "Principal",
+        "CantidadApariciones": 50,
+        "Generos": [
+          "Accion",
+          "Fantasia"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Hekiru Shiina",
+    "Nacionalidad": "Japon",
+    "FechaNacimiento": "1979-08-18",
+    "Edad": 47,
+    "Patrimonio": 17700000,
+    "Idiomas": [
+      "Japones",
+      "Ingles"
+    ],
+    "Personajes": [
+      {
+        "NombrePersonaje": "Celestia Ludenberg",
+        "Produccion": "Danganronpa: Trigger Happy Havoc",
+        "TipoProduccion": "Profesional",
+        "Rol": "Secundario",
+        "CantidadApariciones": 42,
+        "Generos": [
+          "Misterio",
+          "Aventura",
+          "Novela visual"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Hikaru Midorikawa",
+    "Nacionalidad": "Japon",
+    "FechaNacimiento": "1967-09-27",
+    "Edad": 59,
+    "Patrimonio": 13350000,
+    "Idiomas": [
+      "Japones",
+      "Coreano"
+    ],
+    "Personajes": [
+      {
+        "NombrePersonaje": "Rantaro Amami",
+        "Produccion": "Danganronpa V3: Killing Harmony",
+        "TipoProduccion": "Profesional",
+        "Rol": "Secundario",
+        "CantidadApariciones": 31,
+        "Generos": [
+          "Misterio",
+          "Aventura",
+          "Novela visual"
+        ]
+      },
+      {
+        "NombrePersonaje": "Akihiko Sanada",
+        "Produccion": "Persona 3 Reload",
+        "TipoProduccion": "Profesional",
+        "Rol": "Principal",
+        "CantidadApariciones": 36,
+        "Generos": [
+          "JRPG",
+          "Sobrenatural",
+          "Aventura"
+        ]
+      },
+      {
+        "NombrePersonaje": "Kaede Rukawa",
+        "Produccion": "Slam Dunk",
+        "TipoProduccion": "Profesional",
+        "Rol": "Principal",
+        "CantidadApariciones": 28,
+        "Generos": [
+          "Deportes",
+          "Drama"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Hiro Shimono",
+    "Nacionalidad": "Japon",
+    "FechaNacimiento": "1987-01-13",
+    "Edad": 39,
+    "Patrimonio": 11400000,
+    "Idiomas": [
+      "Japones",
+      "Ingles"
+    ],
+    "Personajes": [
+      {
+        "NombrePersonaje": "Kokichi Oma",
+        "Produccion": "Danganronpa V3: Killing Harmony",
+        "TipoProduccion": "Profesional",
+        "Rol": "Principal",
+        "CantidadApariciones": 33,
+        "Generos": [
+          "Misterio",
+          "Aventura",
+          "Novela visual"
+        ]
+      },
+      {
+        "NombrePersonaje": "Zenitsu Agatsuma",
+        "Produccion": "Demon Slayer",
+        "TipoProduccion": "Profesional",
+        "Rol": "Secundario",
+        "CantidadApariciones": 52,
+        "Generos": [
+          "Accion",
+          "Sobrenatural"
+        ]
+      },
+      {
+        "NombrePersonaje": "Connie Springer",
+        "Produccion": "Attack on Titan",
+        "TipoProduccion": "Profesional",
+        "Rol": "Secundario",
+        "CantidadApariciones": 39,
+        "Generos": [
+          "Accion",
+          "Drama"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Hiroki Yasumoto",
+    "Nacionalidad": "Japon",
+    "FechaNacimiento": "1979-10-18",
+    "Edad": 47,
+    "Patrimonio": 6300000,
+    "Idiomas": [
+      "Japones"
+    ],
+    "Personajes": [
+      {
+        "NombrePersonaje": "Nekomaru Nidai",
+        "Produccion": "Danganronpa 2: Goodbye Despair",
+        "TipoProduccion": "Profesional",
+        "Rol": "Secundario",
+        "CantidadApariciones": 36,
+        "Generos": [
+          "Misterio",
+          "Aventura",
+          "Novela visual"
+        ]
+      },
+      {
+        "NombrePersonaje": "Chad",
+        "Produccion": "Bleach",
+        "TipoProduccion": "Profesional",
+        "Rol": "Principal",
+        "CantidadApariciones": 46,
+        "Generos": [
+          "Accion",
+          "Sobrenatural"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Ikue Otani",
+    "Nacionalidad": "Japon",
+    "FechaNacimiento": "1985-02-22",
+    "Edad": 41,
+    "Patrimonio": 11850000,
+    "Idiomas": [
+      "Japones",
+      "Ingles"
+    ],
+    "Personajes": [
+      {
+        "NombrePersonaje": "Morgana",
+        "Produccion": "Persona 5 Royal",
+        "TipoProduccion": "Profesional",
+        "Rol": "Principal",
+        "CantidadApariciones": 29,
+        "Generos": [
+          "JRPG",
+          "Aventura",
+          "Fantasia"
+        ]
+      },
+      {
+        "NombrePersonaje": "Pikachu",
+        "Produccion": "Pokemon",
+        "TipoProduccion": "Profesional",
+        "Rol": "Principal",
+        "CantidadApariciones": 43,
+        "Generos": [
+          "Aventura",
+          "Fantasia"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Joji Nakata",
+    "Nacionalidad": "Japon",
+    "FechaNacimiento": "1968-09-08",
+    "Edad": 58,
+    "Patrimonio": 8750000,
+    "Idiomas": [
+      "Japones"
+    ],
+    "Personajes": [
+      {
+        "NombrePersonaje": "Sojiro Sakura",
+        "Produccion": "Persona 5 Royal",
+        "TipoProduccion": "Profesional",
+        "Rol": "Secundario",
+        "CantidadApariciones": 26,
+        "Generos": [
+          "JRPG",
+          "Aventura",
+          "Fantasia"
+        ]
+      },
+      {
+        "NombrePersonaje": "Kirei Kotomine",
+        "Produccion": "Fate/stay night",
+        "TipoProduccion": "Profesional",
+        "Rol": "Principal",
+        "CantidadApariciones": 26,
+        "Generos": [
+          "Accion",
+          "Fantasia"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Jun Fukuyama",
+    "Nacionalidad": "Japon",
+    "FechaNacimiento": "1988-03-05",
+    "Edad": 38,
+    "Patrimonio": 3900000,
+    "Idiomas": [
+      "Japones",
+      "Coreano"
+    ],
+    "Personajes": [
+      {
+        "NombrePersonaje": "Teruteru Hanamura",
+        "Produccion": "Danganronpa 2: Goodbye Despair",
+        "TipoProduccion": "Profesional",
+        "Rol": "Secundario",
+        "CantidadApariciones": 33,
+        "Generos": [
+          "Misterio",
+          "Aventura",
+          "Novela visual"
+        ]
+      },
+      {
+        "NombrePersonaje": "Ren Amamiya",
+        "Produccion": "Persona 5 Royal",
+        "TipoProduccion": "Profesional",
+        "Rol": "Principal",
+        "CantidadApariciones": 65,
+        "Generos": [
+          "JRPG",
+          "Aventura",
+          "Fantasia"
+        ]
+      },
+      {
+        "NombrePersonaje": "Lelouch Lamperouge",
+        "Produccion": "Code Geass",
+        "TipoProduccion": "Profesional",
+        "Rol": "Secundario",
+        "CantidadApariciones": 39,
+        "Generos": [
+          "Mecha",
+          "Drama"
+        ]
+      },
+      {
+        "NombrePersonaje": "Koro-sensei",
+        "Produccion": "Assassination Classroom",
+        "TipoProduccion": "Profesional",
+        "Rol": "Secundario",
+        "CantidadApariciones": 47,
+        "Generos": [
+          "Comedia",
+          "Accion"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Kana Hanazawa",
+    "Nacionalidad": "Japon",
+    "FechaNacimiento": "1970-12-09",
+    "Edad": 56,
+    "Patrimonio": 7600000,
+    "Idiomas": [
+      "Japones"
+    ],
+    "Personajes": [
+      {
+        "NombrePersonaje": "Chiaki Nanami",
+        "Produccion": "Danganronpa 2: Goodbye Despair",
+        "TipoProduccion": "Profesional",
+        "Rol": "Principal",
+        "CantidadApariciones": 35,
+        "Generos": [
+          "Misterio",
+          "Aventura",
+          "Novela visual"
+        ]
+      },
+      {
+        "NombrePersonaje": "Marie",
+        "Produccion": "Persona 4 Golden",
+        "TipoProduccion": "Profesional",
+        "Rol": "Secundario",
+        "CantidadApariciones": 37,
+        "Generos": [
+          "JRPG",
+          "Misterio",
+          "Aventura"
+        ]
+      },
+      {
+        "NombrePersonaje": "Kanade Tachibana",
+        "Produccion": "Angel Beats!",
+        "TipoProduccion": "Profesional",
+        "Rol": "Secundario",
+        "CantidadApariciones": 28,
+        "Generos": [
+          "Drama",
+          "Sobrenatural"
+        ]
+      },
+      {
+        "NombrePersonaje": "Mitsuri Kanroji",
+        "Produccion": "Demon Slayer",
+        "TipoProduccion": "Profesional",
+        "Rol": "Secundario",
+        "CantidadApariciones": 21,
+        "Generos": [
+          "Accion",
+          "Sobrenatural"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Kappei Yamaguchi",
+    "Nacionalidad": "Japon",
+    "FechaNacimiento": "1973-05-08",
+    "Edad": 53,
+    "Patrimonio": 6400000,
+    "Idiomas": [
+      "Japones"
+    ],
+    "Personajes": [
+      {
+        "NombrePersonaje": "Hifumi Yamada",
+        "Produccion": "Danganronpa: Trigger Happy Havoc",
+        "TipoProduccion": "Profesional",
+        "Rol": "Secundario",
+        "CantidadApariciones": 25,
+        "Generos": [
+          "Misterio",
+          "Aventura",
+          "Novela visual"
+        ]
+      },
+      {
+        "NombrePersonaje": "Teddie",
+        "Produccion": "Persona 4 Golden",
+        "TipoProduccion": "Profesional",
+        "Rol": "Principal",
+        "CantidadApariciones": 37,
+        "Generos": [
+          "JRPG",
+          "Misterio",
+          "Aventura"
+        ]
+      },
+      {
+        "NombrePersonaje": "Inuyasha",
+        "Produccion": "Inuyasha",
+        "TipoProduccion": "Profesional",
+        "Rol": "Secundario",
+        "CantidadApariciones": 12,
+        "Generos": [
+          "Aventura",
+          "Fantasia"
+        ]
+      },
+      {
+        "NombrePersonaje": "Shinichi Kudo",
+        "Produccion": "Detective Conan",
+        "TipoProduccion": "Profesional",
+        "Rol": "Secundario",
+        "CantidadApariciones": 17,
+        "Generos": [
+          "Misterio",
+          "Aventura"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Kazuya Nakai",
+    "Nacionalidad": "Japon",
+    "FechaNacimiento": "1993-11-16",
+    "Edad": 33,
+    "Patrimonio": 14350000,
+    "Idiomas": [
+      "Japones",
+      "Coreano"
+    ],
+    "Personajes": [
+      {
+        "NombrePersonaje": "Mondo Owada",
+        "Produccion": "Danganronpa: Trigger Happy Havoc",
+        "TipoProduccion": "Profesional",
+        "Rol": "Secundario",
+        "CantidadApariciones": 15,
+        "Generos": [
+          "Misterio",
+          "Aventura",
+          "Novela visual"
+        ]
+      },
+      {
+        "NombrePersonaje": "Shinjiro Aragaki",
+        "Produccion": "Persona 3 Reload",
+        "TipoProduccion": "Profesional",
+        "Rol": "Secundario",
+        "CantidadApariciones": 32,
+        "Generos": [
+          "JRPG",
+          "Sobrenatural",
+          "Aventura"
+        ]
+      },
+      {
+        "NombrePersonaje": "Roronoa Zoro",
+        "Produccion": "One Piece",
+        "TipoProduccion": "Profesional",
+        "Rol": "Principal",
+        "CantidadApariciones": 14,
+        "Generos": [
+          "Aventura",
+          "Accion"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Kenichi Suzumura",
+    "Nacionalidad": "Japon",
+    "FechaNacimiento": "1969-08-24",
+    "Edad": 57,
+    "Patrimonio": 8400000,
+    "Idiomas": [
+      "Japones"
+    ],
+    "Personajes": [
+      {
+        "NombrePersonaje": "Korekiyo Shinguji",
+        "Produccion": "Danganronpa V3: Killing Harmony",
+        "TipoProduccion": "Profesional",
+        "Rol": "Secundario",
+        "CantidadApariciones": 38,
+        "Generos": [
+          "Misterio",
+          "Aventura",
+          "Novela visual"
+        ]
+      },
+      {
+        "NombrePersonaje": "Sogo Okita",
+        "Produccion": "Gintama",
+        "TipoProduccion": "Profesional",
+        "Rol": "Principal",
+        "CantidadApariciones": 46,
+        "Generos": [
+          "Comedia",
+          "Accion"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Kikuko Inoue",
+    "Nacionalidad": "Japon",
+    "FechaNacimiento": "1969-08-02",
+    "Edad": 57,
+    "Patrimonio": 13650000,
+    "Idiomas": [
+      "Japones",
+      "Ingles"
+    ],
+    "Personajes": [
+      {
+        "NombrePersonaje": "Kirumi Tojo",
+        "Produccion": "Danganronpa V3: Killing Harmony",
+        "TipoProduccion": "Profesional",
+        "Rol": "Secundario",
+        "CantidadApariciones": 46,
+        "Generos": [
+          "Misterio",
+          "Aventura",
+          "Novela visual"
+        ]
+      },
+      {
+        "NombrePersonaje": "Lust",
+        "Produccion": "Fullmetal Alchemist: Brotherhood",
+        "TipoProduccion": "Profesional",
+        "Rol": "Principal",
+        "CantidadApariciones": 30,
+        "Generos": [
+          "Accion",
+          "Fantasia"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Koichi Yamadera",
+    "Nacionalidad": "Japon",
+    "FechaNacimiento": "1958-09-24",
+    "Edad": 68,
+    "Patrimonio": 13900000,
+    "Idiomas": [
+      "Japones"
+    ],
+    "Personajes": [
+      {
+        "NombrePersonaje": "Monotaro",
+        "Produccion": "Danganronpa V3: Killing Harmony",
+        "TipoProduccion": "Profesional",
+        "Rol": "Extra",
+        "CantidadApariciones": 9,
+        "Generos": [
+          "Misterio",
+          "Aventura",
+          "Novela visual"
+        ]
+      },
+      {
+        "NombrePersonaje": "Monokid",
+        "Produccion": "Danganronpa V3: Killing Harmony",
+        "TipoProduccion": "Profesional",
+        "Rol": "Extra",
+        "CantidadApariciones": 22,
+        "Generos": [
+          "Misterio",
+          "Aventura",
+          "Novela visual"
+        ]
+      },
+      {
+        "NombrePersonaje": "Monosuke",
+        "Produccion": "Danganronpa V3: Killing Harmony",
+        "TipoProduccion": "Profesional",
+        "Rol": "Extra",
+        "CantidadApariciones": 19,
+        "Generos": [
+          "Misterio",
+          "Aventura",
+          "Novela visual"
+        ]
+      },
+      {
+        "NombrePersonaje": "Monophanie",
+        "Produccion": "Danganronpa V3: Killing Harmony",
+        "TipoProduccion": "Profesional",
+        "Rol": "Extra",
+        "CantidadApariciones": 12,
+        "Generos": [
+          "Misterio",
+          "Aventura",
+          "Novela visual"
+        ]
+      },
+      {
+        "NombrePersonaje": "Monodam",
+        "Produccion": "Danganronpa V3: Killing Harmony",
+        "TipoProduccion": "Profesional",
+        "Rol": "Extra",
+        "CantidadApariciones": 20,
+        "Generos": [
+          "Misterio",
+          "Aventura",
+          "Novela visual"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Koki Miyata",
+    "Nacionalidad": "Japon",
+    "FechaNacimiento": "1995-11-12",
+    "Edad": 31,
+    "Patrimonio": 1600000,
+    "Idiomas": [
+      "Japones",
+      "Coreano"
+    ],
+    "Personajes": [
+      {
+        "NombrePersonaje": "Chihiro Fujisaki",
+        "Produccion": "Danganronpa: Trigger Happy Havoc",
+        "TipoProduccion": "Profesional",
+        "Rol": "Secundario",
+        "CantidadApariciones": 45,
+        "Generos": [
+          "Misterio",
+          "Aventura",
+          "Novela visual"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Kosuke Toriumi",
+    "Nacionalidad": "Japon",
+    "FechaNacimiento": "1975-06-07",
+    "Edad": 51,
+    "Patrimonio": 6050000,
+    "Idiomas": [
+      "Japones"
+    ],
+    "Personajes": [
+      {
+        "NombrePersonaje": "Kiyotaka Ishimaru",
+        "Produccion": "Danganronpa: Trigger Happy Havoc",
+        "TipoProduccion": "Profesional",
+        "Rol": "Secundario",
+        "CantidadApariciones": 30,
+        "Generos": [
+          "Misterio",
+          "Aventura",
+          "Novela visual"
+        ]
+      },
+      {
+        "NombrePersonaje": "Junpei Iori",
+        "Produccion": "Persona 3 Reload",
+        "TipoProduccion": "Profesional",
+        "Rol": "Principal",
+        "CantidadApariciones": 40,
+        "Generos": [
+          "JRPG",
+          "Sobrenatural",
+          "Aventura"
+        ]
+      },
+      {
+        "NombrePersonaje": "Kiba Inuzuka",
+        "Produccion": "Naruto",
+        "TipoProduccion": "Profesional",
+        "Rol": "Principal",
+        "CantidadApariciones": 12,
+        "Generos": [
+          "Accion",
+          "Aventura"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Kotono Mitsuishi",
+    "Nacionalidad": "Japon",
+    "FechaNacimiento": "1959-04-04",
+    "Edad": 67,
+    "Patrimonio": 12500000,
+    "Idiomas": [
+      "Japones"
+    ],
+    "Personajes": [
+      {
+        "NombrePersonaje": "Peko Pekoyama",
+        "Produccion": "Danganronpa 2: Goodbye Despair",
+        "TipoProduccion": "Profesional",
+        "Rol": "Secundario",
+        "CantidadApariciones": 20,
+        "Generos": [
+          "Misterio",
+          "Aventura",
+          "Novela visual"
+        ]
+      },
+      {
+        "NombrePersonaje": "Usagi Tsukino",
+        "Produccion": "Sailor Moon",
+        "TipoProduccion": "Profesional",
+        "Rol": "Principal",
+        "CantidadApariciones": 40,
+        "Generos": [
+          "Fantasia",
+          "Romance"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Kujira",
+    "Nacionalidad": "Japon",
+    "FechaNacimiento": "1956-10-12",
+    "Edad": 70,
+    "Patrimonio": 6050000,
+    "Idiomas": [
+      "Japones"
+    ],
+    "Personajes": [
+      {
+        "NombrePersonaje": "Sakura Ogami",
+        "Produccion": "Danganronpa: Trigger Happy Havoc",
+        "TipoProduccion": "Profesional",
+        "Rol": "Secundario",
+        "CantidadApariciones": 32,
+        "Generos": [
+          "Misterio",
+          "Aventura",
+          "Novela visual"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Maaya Sakamoto",
+    "Nacionalidad": "Japon",
+    "FechaNacimiento": "1991-06-20",
+    "Edad": 35,
+    "Patrimonio": 17350000,
+    "Idiomas": [
+      "Japones"
+    ],
+    "Personajes": [
+      {
+        "NombrePersonaje": "Maki Harukawa",
+        "Produccion": "Danganronpa V3: Killing Harmony",
+        "TipoProduccion": "Profesional",
+        "Rol": "Principal",
+        "CantidadApariciones": 41,
+        "Generos": [
+          "Misterio",
+          "Aventura",
+          "Novela visual"
+        ]
+      },
+      {
+        "NombrePersonaje": "Aigis",
+        "Produccion": "Persona 3 Reload",
+        "TipoProduccion": "Profesional",
+        "Rol": "Principal",
+        "CantidadApariciones": 29,
+        "Generos": [
+          "JRPG",
+          "Sobrenatural",
+          "Aventura"
+        ]
+      },
+      {
+        "NombrePersonaje": "Shinobu Oshino",
+        "Produccion": "Monogatari Series",
+        "TipoProduccion": "Profesional",
+        "Rol": "Secundario",
+        "CantidadApariciones": 21,
+        "Generos": [
+          "Sobrenatural",
+          "Misterio"
+        ]
+      },
+      {
+        "NombrePersonaje": "Ciel Phantomhive",
+        "Produccion": "Black Butler",
+        "TipoProduccion": "Profesional",
+        "Rol": "Secundario",
+        "CantidadApariciones": 41,
+        "Generos": [
+          "Misterio",
+          "Sobrenatural"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Mai Fuchigami",
+    "Nacionalidad": "Japon",
+    "FechaNacimiento": "1969-10-14",
+    "Edad": 57,
+    "Patrimonio": 4200000,
+    "Idiomas": [
+      "Japones",
+      "Coreano"
+    ],
+    "Personajes": [
+      {
+        "NombrePersonaje": "Sadayo Kawakami",
+        "Produccion": "Persona 5 Royal",
+        "TipoProduccion": "Profesional",
+        "Rol": "Secundario",
+        "CantidadApariciones": 56,
+        "Generos": [
+          "JRPG",
+          "Aventura",
+          "Fantasia"
+        ]
+      },
+      {
+        "NombrePersonaje": "Nagisa Shiota",
+        "Produccion": "Assassination Classroom",
+        "TipoProduccion": "Profesional",
+        "Rol": "Principal",
+        "CantidadApariciones": 49,
+        "Generos": [
+          "Accion",
+          "Comedia"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Makiko Ohmoto",
+    "Nacionalidad": "Japon",
+    "FechaNacimiento": "1976-07-10",
+    "Edad": 50,
+    "Patrimonio": 5100000,
+    "Idiomas": [
+      "Japones"
+    ],
+    "Personajes": [
+      {
+        "NombrePersonaje": "Sayaka Maizono",
+        "Produccion": "Danganronpa: Trigger Happy Havoc",
+        "TipoProduccion": "Profesional",
+        "Rol": "Secundario",
+        "CantidadApariciones": 43,
+        "Generos": [
+          "Misterio",
+          "Aventura",
+          "Novela visual"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Mamiko Noto",
+    "Nacionalidad": "Japon",
+    "FechaNacimiento": "1994-01-11",
+    "Edad": 32,
+    "Patrimonio": 11250000,
+    "Idiomas": [
+      "Japones"
+    ],
+    "Personajes": [
+      {
+        "NombrePersonaje": "Fuuka Yamagishi",
+        "Produccion": "Persona 3 Reload",
+        "TipoProduccion": "Profesional",
+        "Rol": "Principal",
+        "CantidadApariciones": 41,
+        "Generos": [
+          "JRPG",
+          "Sobrenatural",
+          "Aventura"
+        ]
+      },
+      {
+        "NombrePersonaje": "Sawako Kuronuma",
+        "Produccion": "Kimi ni Todoke",
+        "TipoProduccion": "Profesional",
+        "Rol": "Principal",
+        "CantidadApariciones": 16,
+        "Generos": [
+          "Romance",
+          "Drama"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Mamoru Miyano",
+    "Nacionalidad": "Japon",
+    "FechaNacimiento": "1993-08-10",
+    "Edad": 33,
+    "Patrimonio": 2000000,
+    "Idiomas": [
+      "Japones",
+      "Coreano"
+    ],
+    "Personajes": [
+      {
+        "NombrePersonaje": "Ryuji Sakamoto",
+        "Produccion": "Persona 5 Royal",
+        "TipoProduccion": "Profesional",
+        "Rol": "Principal",
+        "CantidadApariciones": 59,
+        "Generos": [
+          "JRPG",
+          "Aventura",
+          "Fantasia"
+        ]
+      },
+      {
+        "NombrePersonaje": "Light Yagami",
+        "Produccion": "Death Note",
+        "TipoProduccion": "Profesional",
+        "Rol": "Secundario",
+        "CantidadApariciones": 37,
+        "Generos": [
+          "Misterio",
+          "Suspenso"
+        ]
+      },
+      {
+        "NombrePersonaje": "Osamu Dazai",
+        "Produccion": "Bungo Stray Dogs",
+        "TipoProduccion": "Profesional",
+        "Rol": "Secundario",
+        "CantidadApariciones": 10,
+        "Generos": [
+          "Accion",
+          "Misterio"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Masaya Matsukaze",
+    "Nacionalidad": "Japon",
+    "FechaNacimiento": "1990-10-11",
+    "Edad": 36,
+    "Patrimonio": 6100000,
+    "Idiomas": [
+      "Japones",
+      "Ingles"
+    ],
+    "Personajes": [
+      {
+        "NombrePersonaje": "Yasuhiro Hagakure",
+        "Produccion": "Danganronpa: Trigger Happy Havoc",
+        "TipoProduccion": "Profesional",
+        "Rol": "Secundario",
+        "CantidadApariciones": 16,
+        "Generos": [
+          "Misterio",
+          "Aventura",
+          "Novela visual"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Megumi Hayashibara",
+    "Nacionalidad": "Japon",
+    "FechaNacimiento": "1990-05-04",
+    "Edad": 36,
+    "Patrimonio": 7500000,
+    "Idiomas": [
+      "Japones"
+    ],
+    "Personajes": [
+      {
+        "NombrePersonaje": "Shuichi Saihara",
+        "Produccion": "Danganronpa V3: Killing Harmony",
+        "TipoProduccion": "Profesional",
+        "Rol": "Principal",
+        "CantidadApariciones": 27,
+        "Generos": [
+          "Misterio",
+          "Aventura",
+          "Novela visual"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Megumi Ogata",
+    "Nacionalidad": "Japon",
+    "FechaNacimiento": "1984-05-28",
+    "Edad": 42,
+    "Patrimonio": 16150000,
+    "Idiomas": [
+      "Japones"
+    ],
+    "Personajes": [
+      {
+        "NombrePersonaje": "Makoto Naegi",
+        "Produccion": "Danganronpa: Trigger Happy Havoc",
+        "TipoProduccion": "Profesional",
+        "Rol": "Principal",
+        "CantidadApariciones": 43,
+        "Generos": [
+          "Misterio",
+          "Aventura",
+          "Novela visual"
+        ]
+      },
+      {
+        "NombrePersonaje": "Nagito Komaeda",
+        "Produccion": "Danganronpa 2: Goodbye Despair",
+        "TipoProduccion": "Profesional",
+        "Rol": "Principal",
+        "CantidadApariciones": 12,
+        "Generos": [
+          "Misterio",
+          "Aventura",
+          "Novela visual"
+        ]
+      },
+      {
+        "NombrePersonaje": "Ken Amada",
+        "Produccion": "Persona 3 Reload",
+        "TipoProduccion": "Profesional",
+        "Rol": "Secundario",
+        "CantidadApariciones": 38,
+        "Generos": [
+          "JRPG",
+          "Sobrenatural",
+          "Aventura"
+        ]
+      },
+      {
+        "NombrePersonaje": "Shinji Ikari",
+        "Produccion": "Neon Genesis Evangelion",
+        "TipoProduccion": "Profesional",
+        "Rol": "Secundario",
+        "CantidadApariciones": 32,
+        "Generos": [
+          "Mecha",
+          "Drama",
+          "Ciencia ficcion"
+        ]
+      },
+      {
+        "NombrePersonaje": "Yuta Okkotsu",
+        "Produccion": "Jujutsu Kaisen 0",
+        "TipoProduccion": "Profesional",
+        "Rol": "Secundario",
+        "CantidadApariciones": 43,
+        "Generos": [
+          "Accion",
+          "Sobrenatural"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Megumi Toyoguchi",
+    "Nacionalidad": "Japon",
+    "FechaNacimiento": "1979-02-22",
+    "Edad": 47,
+    "Patrimonio": 8100000,
+    "Idiomas": [
+      "Japones"
+    ],
+    "Personajes": [
+      {
+        "NombrePersonaje": "Junko Enoshima",
+        "Produccion": "Danganronpa: Trigger Happy Havoc",
+        "TipoProduccion": "Profesional",
+        "Rol": "Principal",
+        "CantidadApariciones": 17,
+        "Generos": [
+          "Misterio",
+          "Aventura",
+          "Novela visual"
+        ]
+      },
+      {
+        "NombrePersonaje": "Mukuro Ikusaba",
+        "Produccion": "Danganronpa: Trigger Happy Havoc",
+        "TipoProduccion": "Profesional",
+        "Rol": "Secundario",
+        "CantidadApariciones": 40,
+        "Generos": [
+          "Misterio",
+          "Aventura",
+          "Novela visual"
+        ]
+      },
+      {
+        "NombrePersonaje": "Yukari Takeba",
+        "Produccion": "Persona 3 Reload",
+        "TipoProduccion": "Profesional",
+        "Rol": "Principal",
+        "CantidadApariciones": 42,
+        "Generos": [
+          "JRPG",
+          "Sobrenatural",
+          "Aventura"
+        ]
+      },
+      {
+        "NombrePersonaje": "Revy",
+        "Produccion": "Black Lagoon",
+        "TipoProduccion": "Profesional",
+        "Rol": "Principal",
+        "CantidadApariciones": 47,
+        "Generos": [
+          "Accion",
+          "Crimen"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Miho Arakawa",
+    "Nacionalidad": "Japon",
+    "FechaNacimiento": "1992-11-23",
+    "Edad": 34,
+    "Patrimonio": 450000,
+    "Idiomas": [
+      "Japones"
+    ],
+    "Personajes": [
+      {
+        "NombrePersonaje": "Sonia Nevermind",
+        "Produccion": "Danganronpa 2: Goodbye Despair",
+        "TipoProduccion": "Profesional",
+        "Rol": "Secundario",
+        "CantidadApariciones": 18,
+        "Generos": [
+          "Misterio",
+          "Aventura",
+          "Novela visual"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Mikako Komatsu",
+    "Nacionalidad": "Japon",
+    "FechaNacimiento": "1985-01-14",
+    "Edad": 41,
+    "Patrimonio": 3650000,
+    "Idiomas": [
+      "Japones"
+    ],
+    "Personajes": [
+      {
+        "NombrePersonaje": "Tsumugi Shirogane",
+        "Produccion": "Danganronpa V3: Killing Harmony",
+        "TipoProduccion": "Profesional",
+        "Rol": "Principal",
+        "CantidadApariciones": 14,
+        "Generos": [
+          "Misterio",
+          "Aventura",
+          "Novela visual"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Minami Takayama",
+    "Nacionalidad": "Japon",
+    "FechaNacimiento": "1978-01-05",
+    "Edad": 48,
+    "Patrimonio": 2500000,
+    "Idiomas": [
+      "Japones",
+      "Ingles"
+    ],
+    "Personajes": [
+      {
+        "NombrePersonaje": "Hajime Hinata",
+        "Produccion": "Danganronpa 2: Goodbye Despair",
+        "TipoProduccion": "Profesional",
+        "Rol": "Principal",
+        "CantidadApariciones": 38,
+        "Generos": [
+          "Misterio",
+          "Aventura",
+          "Novela visual"
+        ]
+      },
+      {
+        "NombrePersonaje": "Conan Edogawa",
+        "Produccion": "Detective Conan",
+        "TipoProduccion": "Profesional",
+        "Rol": "Principal",
+        "CantidadApariciones": 14,
+        "Generos": [
+          "Misterio",
+          "Aventura"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Minori Suzuki",
+    "Nacionalidad": "Japon",
+    "FechaNacimiento": "1999-07-10",
+    "Edad": 27,
+    "Patrimonio": 17300000,
+    "Idiomas": [
+      "Japones"
+    ],
+    "Personajes": [
+      {
+        "NombrePersonaje": "Angie Yonaga",
+        "Produccion": "Danganronpa V3: Killing Harmony",
+        "TipoProduccion": "Profesional",
+        "Rol": "Secundario",
+        "CantidadApariciones": 38,
+        "Generos": [
+          "Misterio",
+          "Aventura",
+          "Novela visual"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Mitsuaki Madono",
+    "Nacionalidad": "Japon",
+    "FechaNacimiento": "1984-11-17",
+    "Edad": 42,
+    "Patrimonio": 6700000,
+    "Idiomas": [
+      "Japones"
+    ],
+    "Personajes": [
+      {
+        "NombrePersonaje": "Tohru Adachi",
+        "Produccion": "Persona 4 Golden",
+        "TipoProduccion": "Profesional",
+        "Rol": "Principal",
+        "CantidadApariciones": 33,
+        "Generos": [
+          "JRPG",
+          "Misterio",
+          "Aventura"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Miyuki Sawashiro",
+    "Nacionalidad": "Japon",
+    "FechaNacimiento": "1984-05-11",
+    "Edad": 42,
+    "Patrimonio": 1750000,
+    "Idiomas": [
+      "Japones",
+      "Ingles"
+    ],
+    "Personajes": [
+      {
+        "NombrePersonaje": "Toko Fukawa",
+        "Produccion": "Danganronpa: Trigger Happy Havoc",
+        "TipoProduccion": "Profesional",
+        "Rol": "Secundario",
+        "CantidadApariciones": 32,
+        "Generos": [
+          "Misterio",
+          "Aventura",
+          "Novela visual"
+        ]
+      },
+      {
+        "NombrePersonaje": "Kurapika",
+        "Produccion": "Hunter x Hunter",
+        "TipoProduccion": "Profesional",
+        "Rol": "Secundario",
+        "CantidadApariciones": 35,
+        "Generos": [
+          "Aventura",
+          "Accion"
+        ]
+      },
+      {
+        "NombrePersonaje": "Daki",
+        "Produccion": "Demon Slayer",
+        "TipoProduccion": "Profesional",
+        "Rol": "Secundario",
+        "CantidadApariciones": 38,
+        "Generos": [
+          "Accion",
+          "Sobrenatural"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Nana Mizuki",
+    "Nacionalidad": "Japon",
+    "FechaNacimiento": "1993-10-14",
+    "Edad": 33,
+    "Patrimonio": 14300000,
+    "Idiomas": [
+      "Japones"
+    ],
+    "Personajes": [
+      {
+        "NombrePersonaje": "Ann Takamaki",
+        "Produccion": "Persona 5 Royal",
+        "TipoProduccion": "Profesional",
+        "Rol": "Principal",
+        "CantidadApariciones": 62,
+        "Generos": [
+          "JRPG",
+          "Aventura",
+          "Fantasia"
+        ]
+      },
+      {
+        "NombrePersonaje": "Hinata Hyuga",
+        "Produccion": "Naruto",
+        "TipoProduccion": "Profesional",
+        "Rol": "Principal",
+        "CantidadApariciones": 54,
+        "Generos": [
+          "Accion",
+          "Aventura"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Nobuyo Oyama",
+    "Nacionalidad": "Japon",
+    "FechaNacimiento": "1954-03-28",
+    "Edad": 72,
+    "Patrimonio": 12100000,
+    "Idiomas": [
+      "Japones"
+    ],
+    "Personajes": [
+      {
+        "NombrePersonaje": "Monokuma",
+        "Produccion": "Danganronpa: Trigger Happy Havoc",
+        "TipoProduccion": "Profesional",
+        "Rol": "Principal",
+        "CantidadApariciones": 44,
+        "Generos": [
+          "Misterio",
+          "Aventura",
+          "Novela visual"
+        ]
+      },
+      {
+        "NombrePersonaje": "Monokuma",
+        "Produccion": "Danganronpa 2: Goodbye Despair",
+        "TipoProduccion": "Profesional",
+        "Rol": "Principal",
+        "CantidadApariciones": 20,
+        "Generos": [
+          "Misterio",
+          "Aventura",
+          "Novela visual"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Rie Kugimiya",
+    "Nacionalidad": "Japon",
+    "FechaNacimiento": "1972-05-14",
+    "Edad": 54,
+    "Patrimonio": 17800000,
+    "Idiomas": [
+      "Japones",
+      "Ingles"
+    ],
+    "Personajes": [
+      {
+        "NombrePersonaje": "Rise Kujikawa",
+        "Produccion": "Persona 4 Golden",
+        "TipoProduccion": "Profesional",
+        "Rol": "Principal",
+        "CantidadApariciones": 23,
+        "Generos": [
+          "JRPG",
+          "Misterio",
+          "Aventura"
+        ]
+      },
+      {
+        "NombrePersonaje": "Taiga Aisaka",
+        "Produccion": "Toradora!",
+        "TipoProduccion": "Profesional",
+        "Rol": "Secundario",
+        "CantidadApariciones": 30,
+        "Generos": [
+          "Romance",
+          "Comedia"
+        ]
+      },
+      {
+        "NombrePersonaje": "Alphonse Elric",
+        "Produccion": "Fullmetal Alchemist",
+        "TipoProduccion": "Profesional",
+        "Rol": "Secundario",
+        "CantidadApariciones": 45,
+        "Generos": [
+          "Accion",
+          "Fantasia"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Rie Tanaka",
+    "Nacionalidad": "Japon",
+    "FechaNacimiento": "1984-11-25",
+    "Edad": 42,
+    "Patrimonio": 1400000,
+    "Idiomas": [
+      "Japones"
+    ],
+    "Personajes": [
+      {
+        "NombrePersonaje": "Mitsuru Kirijo",
+        "Produccion": "Persona 3 Reload",
+        "TipoProduccion": "Profesional",
+        "Rol": "Principal",
+        "CantidadApariciones": 36,
+        "Generos": [
+          "JRPG",
+          "Sobrenatural",
+          "Aventura"
+        ]
+      },
+      {
+        "NombrePersonaje": "Lacus Clyne",
+        "Produccion": "Mobile Suit Gundam SEED",
+        "TipoProduccion": "Profesional",
+        "Rol": "Principal",
+        "CantidadApariciones": 15,
+        "Generos": [
+          "Mecha",
+          "Drama"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Rina Sato",
+    "Nacionalidad": "Japon",
+    "FechaNacimiento": "1987-10-11",
+    "Edad": 39,
+    "Patrimonio": 17200000,
+    "Idiomas": [
+      "Japones",
+      "Coreano"
+    ],
+    "Personajes": [
+      {
+        "NombrePersonaje": "Makoto Niijima",
+        "Produccion": "Persona 5 Royal",
+        "TipoProduccion": "Profesional",
+        "Rol": "Principal",
+        "CantidadApariciones": 44,
+        "Generos": [
+          "JRPG",
+          "Aventura",
+          "Fantasia"
+        ]
+      },
+      {
+        "NombrePersonaje": "Mikoto Misaka",
+        "Produccion": "A Certain Scientific Railgun",
+        "TipoProduccion": "Profesional",
+        "Rol": "Principal",
+        "CantidadApariciones": 34,
+        "Generos": [
+          "Accion",
+          "Ciencia ficcion"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Romi Park",
+    "Nacionalidad": "Japon",
+    "FechaNacimiento": "1976-04-11",
+    "Edad": 50,
+    "Patrimonio": 4950000,
+    "Idiomas": [
+      "Japones",
+      "Ingles"
+    ],
+    "Personajes": [
+      {
+        "NombrePersonaje": "Akane Owari",
+        "Produccion": "Danganronpa 2: Goodbye Despair",
+        "TipoProduccion": "Profesional",
+        "Rol": "Secundario",
+        "CantidadApariciones": 18,
+        "Generos": [
+          "Misterio",
+          "Aventura",
+          "Novela visual"
+        ]
+      },
+      {
+        "NombrePersonaje": "Naoto Shirogane",
+        "Produccion": "Persona 4 Golden",
+        "TipoProduccion": "Profesional",
+        "Rol": "Principal",
+        "CantidadApariciones": 30,
+        "Generos": [
+          "JRPG",
+          "Misterio",
+          "Aventura"
+        ]
+      },
+      {
+        "NombrePersonaje": "Edward Elric",
+        "Produccion": "Fullmetal Alchemist: Brotherhood",
+        "TipoProduccion": "Profesional",
+        "Rol": "Principal",
+        "CantidadApariciones": 15,
+        "Generos": [
+          "Accion",
+          "Fantasia"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Ryohei Kimura",
+    "Nacionalidad": "Japon",
+    "FechaNacimiento": "1977-12-28",
+    "Edad": 49,
+    "Patrimonio": 17650000,
+    "Idiomas": [
+      "Japones",
+      "Coreano"
+    ],
+    "Personajes": [
+      {
+        "NombrePersonaje": "Kaito Momota",
+        "Produccion": "Danganronpa V3: Killing Harmony",
+        "TipoProduccion": "Profesional",
+        "Rol": "Principal",
+        "CantidadApariciones": 37,
+        "Generos": [
+          "Misterio",
+          "Aventura",
+          "Novela visual"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Sayaka Kanda",
+    "Nacionalidad": "Japon",
+    "FechaNacimiento": "1977-07-13",
+    "Edad": 49,
+    "Patrimonio": 4700000,
+    "Idiomas": [
+      "Japones"
+    ],
+    "Personajes": [
+      {
+        "NombrePersonaje": "Kaede Akamatsu",
+        "Produccion": "Danganronpa V3: Killing Harmony",
+        "TipoProduccion": "Profesional",
+        "Rol": "Principal",
+        "CantidadApariciones": 44,
+        "Generos": [
+          "Misterio",
+          "Aventura",
+          "Novela visual"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Shinya Takahashi",
+    "Nacionalidad": "Japon",
+    "FechaNacimiento": "1970-11-14",
+    "Edad": 56,
+    "Patrimonio": 11850000,
+    "Idiomas": [
+      "Japones"
+    ],
+    "Personajes": [
+      {
+        "NombrePersonaje": "Koromaru",
+        "Produccion": "Persona 3 Reload",
+        "TipoProduccion": "Profesional",
+        "Rol": "Secundario",
+        "CantidadApariciones": 47,
+        "Generos": [
+          "JRPG",
+          "Sobrenatural",
+          "Aventura"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Shotaro Morikubo",
+    "Nacionalidad": "Japon",
+    "FechaNacimiento": "1990-09-21",
+    "Edad": 36,
+    "Patrimonio": 7150000,
+    "Idiomas": [
+      "Japones"
+    ],
+    "Personajes": [
+      {
+        "NombrePersonaje": "Yosuke Hanamura",
+        "Produccion": "Persona 4 Golden",
+        "TipoProduccion": "Profesional",
+        "Rol": "Principal",
+        "CantidadApariciones": 40,
+        "Generos": [
+          "JRPG",
+          "Misterio",
+          "Aventura"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Shunsuke Takeuchi",
+    "Nacionalidad": "Japon",
+    "FechaNacimiento": "2001-01-14",
+    "Edad": 25,
+    "Patrimonio": 9900000,
+    "Idiomas": [
+      "Japones"
+    ],
+    "Personajes": [
+      {
+        "NombrePersonaje": "Gonta Gokuhara",
+        "Produccion": "Danganronpa V3: Killing Harmony",
+        "TipoProduccion": "Profesional",
+        "Rol": "Secundario",
+        "CantidadApariciones": 24,
+        "Generos": [
+          "Misterio",
+          "Aventura",
+          "Novela visual"
+        ]
+      },
+      {
+        "NombrePersonaje": "Einar",
+        "Produccion": "Vinland Saga",
+        "TipoProduccion": "Profesional",
+        "Rol": "Principal",
+        "CantidadApariciones": 20,
+        "Generos": [
+          "Drama",
+          "Historico"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Soichiro Hoshi",
+    "Nacionalidad": "Japon",
+    "FechaNacimiento": "1970-12-22",
+    "Edad": 56,
+    "Patrimonio": 6450000,
+    "Idiomas": [
+      "Japones"
+    ],
+    "Personajes": [
+      {
+        "NombrePersonaje": "Goro Akechi",
+        "Produccion": "Persona 5 Royal",
+        "TipoProduccion": "Profesional",
+        "Rol": "Principal",
+        "CantidadApariciones": 61,
+        "Generos": [
+          "JRPG",
+          "Aventura",
+          "Fantasia"
+        ]
+      },
+      {
+        "NombrePersonaje": "Kira Yamato",
+        "Produccion": "Mobile Suit Gundam SEED",
+        "TipoProduccion": "Profesional",
+        "Rol": "Principal",
+        "CantidadApariciones": 24,
+        "Generos": [
+          "Mecha",
+          "Drama"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Sora Amamiya",
+    "Nacionalidad": "Japon",
+    "FechaNacimiento": "1971-11-19",
+    "Edad": 55,
+    "Patrimonio": 10850000,
+    "Idiomas": [
+      "Japones",
+      "Ingles"
+    ],
+    "Personajes": [
+      {
+        "NombrePersonaje": "Kasumi Yoshizawa",
+        "Produccion": "Persona 5 Royal",
+        "TipoProduccion": "Profesional",
+        "Rol": "Principal",
+        "CantidadApariciones": 18,
+        "Generos": [
+          "JRPG",
+          "Aventura",
+          "Fantasia"
+        ]
+      },
+      {
+        "NombrePersonaje": "Aqua",
+        "Produccion": "KonoSuba",
+        "TipoProduccion": "Profesional",
+        "Rol": "Principal",
+        "CantidadApariciones": 22,
+        "Generos": [
+          "Comedia",
+          "Fantasia"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Sora Tokui",
+    "Nacionalidad": "Japon",
+    "FechaNacimiento": "2000-03-27",
+    "Edad": 26,
+    "Patrimonio": 8850000,
+    "Idiomas": [
+      "Japones"
+    ],
+    "Personajes": [
+      {
+        "NombrePersonaje": "Tenko Chabashira",
+        "Produccion": "Danganronpa V3: Killing Harmony",
+        "TipoProduccion": "Profesional",
+        "Rol": "Secundario",
+        "CantidadApariciones": 33,
+        "Generos": [
+          "Misterio",
+          "Aventura",
+          "Novela visual"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Suzuko Mimori",
+    "Nacionalidad": "Japon",
+    "FechaNacimiento": "1987-11-10",
+    "Edad": 39,
+    "Patrimonio": 10650000,
+    "Idiomas": [
+      "Japones",
+      "Coreano"
+    ],
+    "Personajes": [
+      {
+        "NombrePersonaje": "Hiyoko Saionji",
+        "Produccion": "Danganronpa 2: Goodbye Despair",
+        "TipoProduccion": "Profesional",
+        "Rol": "Secundario",
+        "CantidadApariciones": 26,
+        "Generos": [
+          "Misterio",
+          "Aventura",
+          "Novela visual"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "TARAKO",
+    "Nacionalidad": "Japon",
+    "FechaNacimiento": "1957-05-23",
+    "Edad": 69,
+    "Patrimonio": 10600000,
+    "Idiomas": [
+      "Japones",
+      "Ingles"
+    ],
+    "Personajes": [
+      {
+        "NombrePersonaje": "Monokuma",
+        "Produccion": "Danganronpa V3: Killing Harmony",
+        "TipoProduccion": "Profesional",
+        "Rol": "Principal",
+        "CantidadApariciones": 19,
+        "Generos": [
+          "Misterio",
+          "Aventura",
+          "Novela visual"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Takahiro Sakurai",
+    "Nacionalidad": "Japon",
+    "FechaNacimiento": "1991-02-02",
+    "Edad": 35,
+    "Patrimonio": 2750000,
+    "Idiomas": [
+      "Japones"
+    ],
+    "Personajes": [
+      {
+        "NombrePersonaje": "Leon Kuwata",
+        "Produccion": "Danganronpa: Trigger Happy Havoc",
+        "TipoProduccion": "Profesional",
+        "Rol": "Secundario",
+        "CantidadApariciones": 45,
+        "Generos": [
+          "Misterio",
+          "Aventura",
+          "Novela visual"
+        ]
+      },
+      {
+        "NombrePersonaje": "Giyu Tomioka",
+        "Produccion": "Demon Slayer",
+        "TipoProduccion": "Profesional",
+        "Rol": "Secundario",
+        "CantidadApariciones": 13,
+        "Generos": [
+          "Accion",
+          "Sobrenatural"
+        ]
+      },
+      {
+        "NombrePersonaje": "Suguru Geto",
+        "Produccion": "Jujutsu Kaisen",
+        "TipoProduccion": "Profesional",
+        "Rol": "Secundario",
+        "CantidadApariciones": 21,
+        "Generos": [
+          "Accion",
+          "Sobrenatural"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Takako Sasuga",
+    "Nacionalidad": "Japon",
+    "FechaNacimiento": "1990-03-06",
+    "Edad": 36,
+    "Patrimonio": 8850000,
+    "Idiomas": [
+      "Japones",
+      "Ingles"
+    ],
+    "Personajes": [
+      {
+        "NombrePersonaje": "Monomi",
+        "Produccion": "Danganronpa 2: Goodbye Despair",
+        "TipoProduccion": "Profesional",
+        "Rol": "Principal",
+        "CantidadApariciones": 25,
+        "Generos": [
+          "Misterio",
+          "Aventura",
+          "Novela visual"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Tetsuya Kakihara",
+    "Nacionalidad": "Alemania",
+    "FechaNacimiento": "1995-01-20",
+    "Edad": 31,
+    "Patrimonio": 5150000,
+    "Idiomas": [
+      "Japones",
+      "Ingles"
+    ],
+    "Personajes": [
+      {
+        "NombrePersonaje": "K1-B0",
+        "Produccion": "Danganronpa V3: Killing Harmony",
+        "TipoProduccion": "Profesional",
+        "Rol": "Secundario",
+        "CantidadApariciones": 13,
+        "Generos": [
+          "Misterio",
+          "Aventura",
+          "Novela visual"
+        ]
+      },
+      {
+        "NombrePersonaje": "Natsu Dragneel",
+        "Produccion": "Fairy Tail",
+        "TipoProduccion": "Profesional",
+        "Rol": "Secundario",
+        "CantidadApariciones": 52,
+        "Generos": [
+          "Accion",
+          "Fantasia"
+        ]
+      },
+      {
+        "NombrePersonaje": "Simon",
+        "Produccion": "Tengen Toppa Gurren Lagann",
+        "TipoProduccion": "Profesional",
+        "Rol": "Secundario",
+        "CantidadApariciones": 24,
+        "Generos": [
+          "Mecha",
+          "Accion"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Tomokazu Seki",
+    "Nacionalidad": "Japon",
+    "FechaNacimiento": "1980-02-13",
+    "Edad": 46,
+    "Patrimonio": 10850000,
+    "Idiomas": [
+      "Japones",
+      "Ingles"
+    ],
+    "Personajes": [
+      {
+        "NombrePersonaje": "Kanji Tatsumi",
+        "Produccion": "Persona 4 Golden",
+        "TipoProduccion": "Profesional",
+        "Rol": "Principal",
+        "CantidadApariciones": 57,
+        "Generos": [
+          "JRPG",
+          "Misterio",
+          "Aventura"
+        ]
+      },
+      {
+        "NombrePersonaje": "Gilgamesh",
+        "Produccion": "Fate/stay night",
+        "TipoProduccion": "Profesional",
+        "Rol": "Principal",
+        "CantidadApariciones": 41,
+        "Generos": [
+          "Accion",
+          "Fantasia"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Tomokazu Sugita",
+    "Nacionalidad": "Japon",
+    "FechaNacimiento": "1988-07-27",
+    "Edad": 38,
+    "Patrimonio": 2600000,
+    "Idiomas": [
+      "Japones"
+    ],
+    "Personajes": [
+      {
+        "NombrePersonaje": "Gundham Tanaka",
+        "Produccion": "Danganronpa 2: Goodbye Despair",
+        "TipoProduccion": "Profesional",
+        "Rol": "Secundario",
+        "CantidadApariciones": 43,
+        "Generos": [
+          "Misterio",
+          "Aventura",
+          "Novela visual"
+        ]
+      },
+      {
+        "NombrePersonaje": "Yusuke Kitagawa",
+        "Produccion": "Persona 5 Royal",
+        "TipoProduccion": "Profesional",
+        "Rol": "Principal",
+        "CantidadApariciones": 57,
+        "Generos": [
+          "JRPG",
+          "Aventura",
+          "Fantasia"
+        ]
+      },
+      {
+        "NombrePersonaje": "Gintoki Sakata",
+        "Produccion": "Gintama",
+        "TipoProduccion": "Profesional",
+        "Rol": "Principal",
+        "CantidadApariciones": 40,
+        "Generos": [
+          "Comedia",
+          "Accion"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Tomomi Isomura",
+    "Nacionalidad": "Japon",
+    "FechaNacimiento": "1985-04-26",
+    "Edad": 41,
+    "Patrimonio": 9400000,
+    "Idiomas": [
+      "Japones"
+    ],
+    "Personajes": [
+      {
+        "NombrePersonaje": "Hifumi Togo",
+        "Produccion": "Persona 5 Royal",
+        "TipoProduccion": "Profesional",
+        "Rol": "Secundario",
+        "CantidadApariciones": 70,
+        "Generos": [
+          "JRPG",
+          "Aventura",
+          "Fantasia"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Unsho Ishizuka",
+    "Nacionalidad": "Japon",
+    "FechaNacimiento": "1954-02-14",
+    "Edad": 72,
+    "Patrimonio": 6450000,
+    "Idiomas": [
+      "Japones"
+    ],
+    "Personajes": [
+      {
+        "NombrePersonaje": "Ryotaro Dojima",
+        "Produccion": "Persona 4 Golden",
+        "TipoProduccion": "Profesional",
+        "Rol": "Secundario",
+        "CantidadApariciones": 29,
+        "Generos": [
+          "JRPG",
+          "Misterio",
+          "Aventura"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Yoko Hikasa",
+    "Nacionalidad": "Japon",
+    "FechaNacimiento": "1973-05-09",
+    "Edad": 53,
+    "Patrimonio": 6050000,
+    "Idiomas": [
+      "Japones"
+    ],
+    "Personajes": [
+      {
+        "NombrePersonaje": "Kyoko Kirigiri",
+        "Produccion": "Danganronpa: Trigger Happy Havoc",
+        "TipoProduccion": "Profesional",
+        "Rol": "Principal",
+        "CantidadApariciones": 36,
+        "Generos": [
+          "Misterio",
+          "Aventura",
+          "Novela visual"
+        ]
+      },
+      {
+        "NombrePersonaje": "Mio Akiyama",
+        "Produccion": "K-On!",
+        "TipoProduccion": "Profesional",
+        "Rol": "Principal",
+        "CantidadApariciones": 22,
+        "Generos": [
+          "Comedia",
+          "Musica",
+          "Escolar"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Yoshimasa Hosoya",
+    "Nacionalidad": "Japon",
+    "FechaNacimiento": "1991-07-10",
+    "Edad": 35,
+    "Patrimonio": 10050000,
+    "Idiomas": [
+      "Japones",
+      "Coreano"
+    ],
+    "Personajes": [
+      {
+        "NombrePersonaje": "Kazuichi Soda",
+        "Produccion": "Danganronpa 2: Goodbye Despair",
+        "TipoProduccion": "Profesional",
+        "Rol": "Secundario",
+        "CantidadApariciones": 25,
+        "Generos": [
+          "Misterio",
+          "Aventura",
+          "Novela visual"
+        ]
+      },
+      {
+        "NombrePersonaje": "Reiner Braun",
+        "Produccion": "Attack on Titan",
+        "TipoProduccion": "Profesional",
+        "Rol": "Principal",
+        "CantidadApariciones": 47,
+        "Generos": [
+          "Accion",
+          "Drama"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Yu Kobayashi",
+    "Nacionalidad": "Japon",
+    "FechaNacimiento": "1973-02-02",
+    "Edad": 53,
+    "Patrimonio": 10600000,
+    "Idiomas": [
+      "Japones"
+    ],
+    "Personajes": [
+      {
+        "NombrePersonaje": "Mahiru Koizumi",
+        "Produccion": "Danganronpa 2: Goodbye Despair",
+        "TipoProduccion": "Profesional",
+        "Rol": "Secundario",
+        "CantidadApariciones": 24,
+        "Generos": [
+          "Misterio",
+          "Aventura",
+          "Novela visual"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Yui Horie",
+    "Nacionalidad": "Japon",
+    "FechaNacimiento": "1987-01-22",
+    "Edad": 39,
+    "Patrimonio": 12550000,
+    "Idiomas": [
+      "Japones",
+      "Ingles"
+    ],
+    "Personajes": [
+      {
+        "NombrePersonaje": "Chie Satonaka",
+        "Produccion": "Persona 4 Golden",
+        "TipoProduccion": "Profesional",
+        "Rol": "Principal",
+        "CantidadApariciones": 45,
+        "Generos": [
+          "JRPG",
+          "Misterio",
+          "Aventura"
+        ]
+      },
+      {
+        "NombrePersonaje": "Tsubasa Hanekawa",
+        "Produccion": "Monogatari Series",
+        "TipoProduccion": "Profesional",
+        "Rol": "Principal",
+        "CantidadApariciones": 36,
+        "Generos": [
+          "Sobrenatural",
+          "Misterio"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Yuka Saito",
+    "Nacionalidad": "Japon",
+    "FechaNacimiento": "1982-06-06",
+    "Edad": 44,
+    "Patrimonio": 9850000,
+    "Idiomas": [
+      "Japones",
+      "Ingles"
+    ],
+    "Personajes": [
+      {
+        "NombrePersonaje": "Tae Takemi",
+        "Produccion": "Persona 5 Royal",
+        "TipoProduccion": "Profesional",
+        "Rol": "Secundario",
+        "CantidadApariciones": 65,
+        "Generos": [
+          "JRPG",
+          "Aventura",
+          "Fantasia"
+        ]
+      }
+    ]
+  },
+  {
+    "Nombre": "Sofia Nakamura",
+    "Nacionalidad": "Chile",
+    "FechaNacimiento": "1999-03-14",
+    "Edad": 27,
+    "Patrimonio": 1250000,
+    "Idiomas": ["Espanol", "Japones"],
+    "Personajes": [
+      {
+        "NombrePersonaje": "Akari Mizuno",
+        "Produccion": "Eclipse Academy",
+        "TipoProduccion": "Profesional",
+        "Rol": "Principal",
+        "CantidadApariciones": 24,
+        "Generos": ["Accion", "Fantasia"]
+      }
+    ]
+  },
+  {
+    "Nombre": "Lucas Tanaka",
+    "Nacionalidad": "Brasil",
+    "FechaNacimiento": "1992-07-21",
+    "Edad": 34,
+    "Patrimonio": 980000,
+    "Idiomas": ["Portugues", "Japones"],
+    "Personajes": [
+      {
+        "NombrePersonaje": "Ren Kagawa",
+        "Produccion": "Crimson Horizon",
+        "TipoProduccion": "Profesional",
+        "Rol": "Principal",
+        "CantidadApariciones": 36,
+        "Generos": ["Accion", "Aventura"]
+      }
+    ]
+  },
+  {
+    "Nombre": "Emma Fujimoto",
+    "Nacionalidad": "Estados Unidos",
+    "FechaNacimiento": "1997-01-08",
+    "Edad": 29,
+    "Patrimonio": 2100000,
+    "Idiomas": ["Ingles", "Japones"],
+    "Personajes": [
+      {
+        "NombrePersonaje": "Maya Kisaragi",
+        "Produccion": "Neon Memories",
+        "TipoProduccion": "Profesional",
+        "Rol": "Principal",
+        "CantidadApariciones": 18,
+        "Generos": ["Ciencia ficcion", "Drama"]
+      }
+    ]
+  },
+  {
+    "Nombre": "Daniel Sato",
+    "Nacionalidad": "Canada",
+    "FechaNacimiento": "1984-11-02",
+    "Edad": 42,
+    "Patrimonio": 3400000,
+    "Idiomas": ["Ingles", "Frances", "Japones"],
+    "Personajes": [
+      {
+        "NombrePersonaje": "Kazuo Arima",
+        "Produccion": "Northern Blade",
+        "TipoProduccion": "Profesional",
+        "Rol": "Secundario",
+        "CantidadApariciones": 31,
+        "Generos": ["Accion", "Fantasia"]
+      }
+    ]
+  },
+  {
+    "Nombre": "Valentina Mori",
+    "Nacionalidad": "Argentina",
+    "FechaNacimiento": "1995-05-19",
+    "Edad": 31,
+    "Patrimonio": 1750000,
+    "Idiomas": ["Espanol", "Japones"],
+    "Personajes": [
+      {
+        "NombrePersonaje": "Emilia Kuroda",
+        "Produccion": "Starlight Symphony",
+        "TipoProduccion": "Profesional",
+        "Rol": "Principal",
+        "CantidadApariciones": 25,
+        "Generos": ["Drama", "Musica"]
+      }
+    ]
+  },
+  {
+    "Nombre": "Hana Kim",
+    "Nacionalidad": "Corea del Sur",
+    "FechaNacimiento": "2000-09-11",
+    "Edad": 26,
+    "Patrimonio": 850000,
+    "Idiomas": ["Coreano", "Japones"],
+    "Personajes": [
+      {
+        "NombrePersonaje": "Yuna Arai",
+        "Produccion": "Spirit Hunters",
+        "TipoProduccion": "Profesional",
+        "Rol": "Principal",
+        "CantidadApariciones": 42,
+        "Generos": ["Sobrenatural", "Accion"]
+      }
+    ]
+  },
+  {
+    "Nombre": "Liam Suzuki",
+    "Nacionalidad": "Australia",
+    "FechaNacimiento": "1988-04-25",
+    "Edad": 38,
+    "Patrimonio": 2650000,
+    "Idiomas": ["Ingles", "Japones"],
+    "Personajes": [
+      {
+        "NombrePersonaje": "Shin Okabe",
+        "Produccion": "Zero Frontier",
+        "TipoProduccion": "Profesional",
+        "Rol": "Secundario",
+        "CantidadApariciones": 17,
+        "Generos": ["Ciencia ficcion", "Aventura"]
+      }
+    ]
+  },
+  {
+    "Nombre": "Clara Hayashi",
+    "Nacionalidad": "Espana",
+    "FechaNacimiento": "1981-08-30",
+    "Edad": 45,
+    "Patrimonio": 4200000,
+    "Idiomas": ["Espanol", "Japones"],
+    "Personajes": [
+      {
+        "NombrePersonaje": "Reina Takahashi",
+        "Produccion": "Moonlit Garden",
+        "TipoProduccion": "Independiente",
+        "Rol": "Secundario",
+        "CantidadApariciones": 15,
+        "Generos": ["Drama", "Misterio"]
+      }
+    ]
+  },
+  {
+    "Nombre": "Leon Watanabe",
+    "Nacionalidad": "Alemania",
+    "FechaNacimiento": "1973-02-16",
+    "Edad": 53,
+    "Patrimonio": 5700000,
+    "Idiomas": ["Aleman", "Japones"],
+    "Personajes": [
+      {
+        "NombrePersonaje": "Victor Hayama",
+        "Produccion": "Iron Requiem",
+        "TipoProduccion": "Profesional",
+        "Rol": "Principal",
+        "CantidadApariciones": 39,
+        "Generos": ["Accion", "Ciencia ficcion"]
+      }
+    ]
+  },
+  {
+    "Nombre": "Amelia Ito",
+    "Nacionalidad": "Reino Unido",
+    "FechaNacimiento": "1969-12-05",
+    "Edad": 57,
+    "Patrimonio": 6300000,
+    "Idiomas": ["Ingles", "Japones"],
+    "Personajes": [
+      {
+        "NombrePersonaje": "Elizabeth Kurosawa",
+        "Produccion": "The Last Chronicle",
+        "TipoProduccion": "Profesional",
+        "Rol": "Secundario",
+        "CantidadApariciones": 48,
+        "Generos": ["Fantasia", "Drama"]
+      }
+    ]
+  },
+  {
+    "Nombre": "Yuko Kaida",
+    "Nacionalidad": "Japon",
+    "FechaNacimiento": "1986-12-28",
+    "Edad": 40,
+    "Patrimonio": 5200000,
+    "Idiomas": [
+      "Japones"
+    ],
+    "Personajes": [
+      {
+        "NombrePersonaje": "Sae Niijima",
+        "Produccion": "Persona 5 Royal",
+        "TipoProduccion": "Profesional",
+        "Rol": "Secundario",
+        "CantidadApariciones": 69,
+        "Generos": [
+          "JRPG",
+          "Aventura",
+          "Fantasia"
+        ]
+      },
+      {
+        "NombrePersonaje": "Tsukuyo",
+        "Produccion": "Gintama",
+        "TipoProduccion": "Profesional",
+        "Rol": "Principal",
+        "CantidadApariciones": 23,
+        "Generos": [
+          "Comedia",
+          "Accion"
+        ]
+      }
+    ]
+  }
+]
